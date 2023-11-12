@@ -51,15 +51,15 @@
 
 <!-- GitHub Trends Section -->
 ## 💹 GitHub Trends
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/abdulrahmans0414&theme=dark/langs?time_range=one_year)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/abdulrahmans0414&theme=dark/repos?time_range=one_year)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/abdulrahmans0414/langs?time_range=one_year)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/abdulrahmans0414/repos?time_range=one_year)](https://githubtrends.io)
 
 <!-- GitHub Stats Section -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmans0414&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="abdulrahmans0414" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmans0414&hide_border=false&include_all_commits=false&count_private=false" alt="abdulrahmans0414" /></p>
 
-<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmans0414&theme=dark" /></a> </p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmans0414" /></a> </p>
 
-<p><a href="https://abdulrahmans0414.github.io"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahmans0414&&theme=dark"/></a></p>
+<p><a href="https://abdulrahmans0414.github.io"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahmans0414/></a></p>
 
 <!-- GitHub Trophies Section -->
 ## GitHub Trophies
