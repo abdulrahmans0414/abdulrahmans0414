@@ -59,7 +59,7 @@
 
 <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmans0414" /></a> </p>
 
-<p><a href="https://abdulrahmans0414.github.io"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahmans0414/></a></p>
+<p><a href="https://abdulrahmans0414.github.io"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahmans0414&theme=vue/></a></p>
 
 <!-- GitHub Trophies Section -->
 ## GitHub Trophies
