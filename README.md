@@ -49,17 +49,14 @@
 ## leetCode Status
 [![abdulrahmans0414's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abdulrahmans0414)](https://github.com/KnlnKS/leetcode-stats)
 
-<!-- GitHub Trends Section -->
-## 💹 GitHub Trends
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/abdulrahmans0414/langs?time_range=one_year)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/abdulrahmans0414/repos?time_range=one_year)](https://githubtrends.io)
+<!-- GitHub Stats Section -->
+## 💹 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmans0414&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- GitHub Stats Section -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmans0414&hide_border=false&include_all_commits=false&count_private=false" alt="abdulrahmans0414" /></p>
 
 <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmans0414" /></a> </p>
-
-<p><a href="https://abdulrahmans0414.github.io"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahmans0414&theme=vue/></a></p>
 
 <!-- GitHub Trophies Section -->
 ## GitHub Trophies
