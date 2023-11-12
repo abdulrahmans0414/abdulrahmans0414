@@ -46,8 +46,10 @@
 ## Hacktoberfest 2023
 [![Holopin Board](https://holopin.me/abdulrahmans0414)](https://holopin.io/@abdulrahmans0414)
 
+<!--
 ## leetCode Status
 [![abdulrahmans0414's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abdulrahmans0414)](https://github.com/KnlnKS/leetcode-stats)
+-->
 
 <!-- GitHub Stats Section -->
 ## 💹 GitHub Stats
