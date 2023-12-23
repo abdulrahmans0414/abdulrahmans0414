@@ -3,7 +3,7 @@
 -->
 
 <!-- Your Banner/Header Image -->
-<img src="https://drive.google.com/file/d/18x9LXtLLoIfRfSApFiCN2w_zgVTsuD5k/view?usp=sharing" alt="Banner" /> 
+<!-- <img src="" alt="Banner" /> -->
 
 <h1 align="center"> Hi there 👋, I'm Abdul Rahman </h1> 
 <!-- Your Typing SVG -->
@@ -14,7 +14,7 @@
  </div>
 
 <!-- Your Coding GIF -->
-<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=abdulrahmans0414&label=Profile%20views&color=0e75b6&style=flat)
