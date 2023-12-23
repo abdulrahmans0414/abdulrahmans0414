@@ -30,7 +30,7 @@
 
 💬 Ask me about **HTML, CSS, JS, and Reactjs**
 
-📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/16DOBRecOp1gZg_5RMJBOu0ieS87yQhlO/view?usp=drive_link)
+📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1Rnw9GV8JaGlDcTUCeoiQbK0BLoACTo6I/view?usp=sharing)
 
 <!-- Contact Section -->
 📫 How to reach me:
